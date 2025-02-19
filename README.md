@@ -1,4 +1,4 @@
-CLI v0.5.3
+##CLI v0.5.3
 (not working)
 
 ```shell
@@ -41,7 +41,7 @@ cd ~/network-api/public
 ./install.sh
 ```
 
-UPDATE
+##UPDATE
 
 ```shell
 screen -r Nexus
@@ -70,7 +70,8 @@ cd ~/network-api/public
 ./install.sh
 ```
 
-Optional: clean your space after the event
+
+#Optional: clean your space after the event
 
 ```shell
 sudo pkill -u nexus
