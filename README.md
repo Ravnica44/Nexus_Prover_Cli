@@ -70,7 +70,7 @@ cd ~/network-api/public
 ./install.sh
 ```
 
-Deleta all on root after the event
+Optional: clean your space after the event
 
 ```shell
 sudo pkill -u nexus
