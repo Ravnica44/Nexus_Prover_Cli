@@ -1,3 +1,6 @@
+CLI v0.5.3
+(not working at his time)
+
 ```shell
 add user nexus
 ```
@@ -29,6 +32,35 @@ source ~/.bashrc
 ```shell
 git clone https://github.com/nexus-xyz/network-api
 ```
+
+```shell
+cd ~/network-api/public
+```
+
+```shell
+./install.sh
+```
+
+UPDATE
+
+```shell
+screen -r Nexus
+```
+
+Ctrl + C
+
+```shell
+cd ~/network-api
+```
+
+```shell
+git pull
+```
+
+```shell
+git checkout vTAG 
+```
+https://github.com/nexus-xyz/network-api/tags
 
 ```shell
 cd ~/network-api/public
