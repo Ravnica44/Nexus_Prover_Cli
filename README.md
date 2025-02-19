@@ -69,3 +69,18 @@ cd ~/network-api/public
 ```shell
 ./install.sh
 ```
+
+Deleta all on root after the event
+
+```shell
+sudo pkill -u nexus
+```
+
+```shell
+sudo userdel -r nexus
+```
+
+```shell
+screen -XS Nexus quit
+```
+
