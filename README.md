@@ -47,7 +47,7 @@ UPDATE
 screen -r Nexus
 ```
 
-Ctrl + C
+stop the script with `Ctrl + C`
 
 ```shell
 cd ~/network-api
