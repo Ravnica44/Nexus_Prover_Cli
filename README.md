@@ -89,6 +89,7 @@ cd ~/network-api/public
 
 
 # Optional: clean your space after the event
+`on root and out of the screen`
 
 ```shell
 sudo pkill -u nexus
