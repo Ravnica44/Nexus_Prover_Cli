@@ -1,4 +1,4 @@
-# CLI v0.5.4
+# CLI v0.5.5
 
 ```shell
 add user nexus
@@ -75,7 +75,7 @@ git pull
 ```
 
 ```shell
-git checkout vTAG 
+git checkout TAG
 ```
 https://github.com/nexus-xyz/network-api/tags
 
