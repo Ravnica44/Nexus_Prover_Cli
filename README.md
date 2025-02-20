@@ -39,10 +39,6 @@ unzip protoc-29.3-linux-x86_64.zip -d $HOME/.local && rm protoc-29.3-linux-x86_6
 ```
 
 ```shell
-export PATH="$HOME/.local/bin:$PATH"
-```
-
-```shell
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
