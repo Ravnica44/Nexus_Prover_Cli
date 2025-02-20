@@ -28,6 +28,25 @@ echo 'export PATH="$HOME/.cargo/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
+https://github.com/protocolbuffers/protobuf/releases
+
+```shell
+wget https://github.com/protocolbuffers/protobuf/releases/download/v29.3/protoc-29.3-linux-x86_64.zip
+```
+
+```shell
+unzip protoc-29.3-linux-x86_64.zip -d $HOME/.local && rm protoc-29.3-linux-x86_64.zip
+```
+
+```shell
+export PATH="$HOME/.local/bin:$PATH"
+```
+
+```shell
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
 ```shell
 git clone https://github.com/nexus-xyz/network-api
 ```
