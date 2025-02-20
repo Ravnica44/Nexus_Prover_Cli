@@ -75,7 +75,7 @@ git pull
 ```
 
 ```shell
-git checkout TAG
+git checkout [new tag]
 ```
 https://github.com/nexus-xyz/network-api/tags
 
