@@ -1,5 +1,4 @@
-# CLI v0.5.3
-(not working)
+# CLI v0.5.4
 
 ```shell
 add user nexus
