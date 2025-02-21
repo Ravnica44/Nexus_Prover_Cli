@@ -105,6 +105,7 @@ screen -XS Nexus quit
 `or`
 
 ```shell
-sudo pkill -9 -u Nexus &>/dev/null & disown && sudo userdel -r Nexus &>/dev/null || true && screen -XS Nexus quit &>/dev/null || true && echo -e "\033[32mEnvironment has been cleaned.\033[0m"
+sudo pkill -9 -u nexus & disown && sudo userdel -r nexus &>/dev/null || true && screen -XS Nexus quit &>/dev/null || true && echo -e "\033[32mEnvironment has been cleaned.\033[0m"
+
 ```
 
