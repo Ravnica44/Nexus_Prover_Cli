@@ -105,6 +105,6 @@ screen -XS Nexus quit
 `or`
 
 ```shell
-sudo pkill -9 -u prism && sudo userdel -r prism && screen -XS Prism quit
+sudo pkill -9 -u nexus && sudo userdel -r nexus && screen -XS Nexus quit
 ```
 
